@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup</h1>
-<h3 align="center">A machine learning enthusiast with a passion for researchA machine learning enthusiast with a passion for research.</h3>
+<h3 align="center">A machine learning enthusiast with a passion for research.</h3>
 
 - 📫 How to reach me **anupbhat67@gmail.com**
 
